@@ -1,5 +1,12 @@
 ### Hi there 👋, I'm Angel Rada
 
+A little about me:
+
+- 🔭 I’m currently working on @Wearecapicua
+- 🌱 I’m currently learning AWS for Backops
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/angel-rada-78b503182/)
+- ⚡ Fun fact: I'm really proactive and a little obsessed, so everytime I get stuck into an issue I work on fixing something else, most of the time fixing something else helps me to find a fix for my original issue 😅
+
 <!--
 **Gengart/Gengart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
